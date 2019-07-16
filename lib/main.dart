@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 /* BRINCADEIRA VAMOS TESTAR ISSO TUDO !!!!*/
 /* BRINCADEIRA VAMOS TESTAR ISSO TUDO !!!!*/
-/* BRINCADEIRA VAMOS TESTAR ISSO TUDO !!!!*/
-/* BRINCADEIRA VAMOS TESTAR ISSO TUDO !!!!*/
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
